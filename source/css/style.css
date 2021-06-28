@@ -97,3 +97,8 @@ h1 {
       opacity: 1;
     }
   }
+
+  .settings_icon {
+    height: 100px;
+    padding-left: 1400px;
+  }

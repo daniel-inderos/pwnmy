@@ -1,0 +1,14 @@
+body {
+    background-color: black;
+}
+
+.settings_list {
+    color: white;
+    text-align: center;
+    list-style-type: none;
+    padding-top: 200px;
+}
+
+.go_back {
+    padding: 20px;
+}
